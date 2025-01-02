@@ -17,8 +17,6 @@ Working as a Cloud Architect/Backend Engineer engaged in both contract developme
 - AWS Community Builders (Dev Tools): [since 2024](https://aws.amazon.com/jp/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Yuki%2BMatsuda&cb-cards.q_operator=AND)
 - AWS CDK (OSS Contribute): [Top Contributors](https://github.com/aws/aws-cdk/blob/main/CONTRIBUTORS.md) & [Trusted Reviewers](https://github.com/aws/aws-cdk/wiki/CDK-Community-PR-Reviews#trusted-cdk-reviewers)
 
-<img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=mazyu36" />
-
 
 ## Stats
 
