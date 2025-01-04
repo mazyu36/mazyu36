@@ -20,6 +20,8 @@ Working as a Cloud Architect/Backend Engineer engaged in both contract developme
 
 ## Stats
 
+<img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=mazyu36" />
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mazyu36" />
 </a>
